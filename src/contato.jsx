@@ -4,7 +4,7 @@ export default function Contato() {
     return (
       <Container> 
         <h1> CONTATO </h1>
-        <h2> wawaw@wawaw.com </h2>
+        <h2> spectroprod@contato.com </h2>
       </Container>
     );
 }
